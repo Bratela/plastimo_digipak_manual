@@ -1,2 +1,3 @@
-# plastimo_digipak_manual
-Plastimo Digipak Manual PDF
+
+# Plastimo Digipak Manual PDF
+PDF file.
